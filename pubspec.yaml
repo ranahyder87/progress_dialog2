@@ -1,0 +1,21 @@
+name: progress_dialog2
+description: UPDATED A light weight library to easily manage a progress dialog with simple steps whenever you need to do it. You can easily show and hide it.
+version: 1.0.0
+#author: Fayaz<fayazfz07@gmail.com>
+homepage: https://github.com/ranahyder87/progress_dialog2
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+   - assets/double_ring_loading_io.gif
+
