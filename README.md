@@ -2,12 +2,10 @@
 
 UPDATED A light weight package to show progress dialog. As it is a stateful widget, you can change the text shown on the dialog dynamically.
 
-> Thank you for being a user of this package, this package is discontinued due to serveral reasons, please find the other library which you can use to accomplish the task which this package does and I believe that package will be more helpful. Please find the repo link here for [OTS (Over the screen)](https://github.com/fayaz07/ots) 
 
-[![](https://img.shields.io/badge/dontate-Buy%20Me%20a%20Coffee-blueviolet)](https://www.buymeacoffee.com/fayaz) &nbsp; 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in-0e76a8)](https://www.linkedin.com/in/fayaz07) &nbsp; [![Fork](https://img.shields.io/github/forks/fayaz07/progress_dialog?style=social)](https://github.com/fayaz07/progress_dialog/fork) &nbsp; [![Star](https://img.shields.io/github/stars/fayaz07/progress_dialog?style=social)](https://github.com/fayaz07/progress_dialog/star) &nbsp; [![Watches](https://img.shields.io/github/watchers/fayaz07/progress_dialog?style=social)](https://github.com/fayaz07/progress_dialog/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in-0e76a8)](https://www.linkedin.com/in/rana-hyder) &nbsp; [![Fork](https://img.shields.io/github/forks/ranahyder87/progress_dialog2?style=social)](https://github.com/ranahyder87/progress_dialog2/fork) &nbsp; [![Star](https://img.shields.io/github/stars/ranahyder87/progress_dialog2?style=social)](https://github.com/ranahyder87/progress_dialog2/star) &nbsp; [![Watches](https://img.shields.io/github/watchers/ranahyder87/progress_dialog2?style=social)](https://github.com/ranahyder87/progress_dialog2/) 
 
-[![Get the library](https://img.shields.io/badge/Get%20library-pub-blue)](https://pub.dev/packages/progress_dialog) &nbsp; [![Example](https://img.shields.io/badge/Example-Ex-success)](https://pub.dev/packages/progress_dialog#-example-tab-)
+[![Get the library](https://img.shields.io/badge/Get%20library-pub-blue)](https://pub.dev/packages/progress_dialog2) &nbsp; [![Example](https://img.shields.io/badge/Example-Ex-success)](https://pub.dev/packages/progress_dialog2#-example-tab-)
 
 
 
@@ -17,7 +15,7 @@ UPDATED A light weight package to show progress dialog. As it is a stateful widg
 
 ## Demo
 
-<img src="https://raw.githubusercontent.com/fayaz07/progress_dialog/master/progress_dialog_1.png" height="35%" width="35%"  alt="Normal dialog Demo"/> <img src="https://raw.githubusercontent.com/fayaz07/progress_dialog/master/progress_dialog_2.png"   height="35%" width="35%" alt="Download dialog Demo" />
+<img src="https://raw.githubusercontent.com/ranahyder87/progress_dialog2/master/progress_dialog_1.png" height="35%" width="35%"  alt="Normal dialog Demo"/> <img src="https://raw.githubusercontent.com/ranahyder87/progress_dialog2/master/progress_dialog_2.png"   height="35%" width="35%" alt="Download dialog Demo" />
 
 
 ## Installation
